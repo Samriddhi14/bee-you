@@ -1,6 +1,6 @@
 # MERN Stack Project: BeeYou -  a Twitter Clone  | JWT, Socket.io
 
-![Demo App](https://i.ibb.co/f8y9vGS/Group-82.png)
+![image](https://github.com/user-attachments/assets/d603d08b-5b21-440e-a82c-817225f91cb4)
 
 Some Features:
 
